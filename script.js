@@ -1,3 +1,6 @@
+@import SpeakGoodBye.js
+@import SpeakHello.js
+
 (function () {
   var names = [
     "Yaakov",
